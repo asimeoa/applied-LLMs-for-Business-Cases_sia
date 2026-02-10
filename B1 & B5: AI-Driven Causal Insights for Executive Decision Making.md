@@ -1,15 +1,21 @@
 # Case B1 & B5: AI-Driven Causal Insights for Engineering & Program Management
+### B1: Revenue drop explanation
 
-## 1️⃣ Problem Clarification (The 80/20 Rule)
+“Executives want an ML model to explain why revenue dropped last quarter across different regions and customer segments.”
+
+### B5: Executive dashboard automation
+
+“Executives want an AI-powered dashboard that automatically explains weekly KPI changes.”
+
+## 1️⃣ Problem Clarification (Engineering & R&D Focus)
 **What is the actual problem to solve?**
-Executives see rising costs and shrinking margins but lack the "Why." 80% of project overruns are caused by "hidden" factors buried in data silos:
-1.  **Scope Creep:** Additional customer requests that are not in the official **Requirement Specifications (Lastenheft)** and were never part of the **Recalculation**.
-2.  **Resource Friction:** Productivity loss due to sick leave, staff turnover, or management-mandated "overtime burn-down."
-3.  **Crisis Costs:** Expensive express logistics or unplanned "emergency" prototype data for C-level presentations and trade fairs (Messe).
+Executives see rising costs, while Engineering Leads struggle with shifting technical requirements. 80% of project deviations are caused by "hidden" factors—specifically **Scope Creep** (unauthorized changes) and **Resource Friction**—that are not tracked in official documents. We need to identify the root cause of budget and performance drops.
 
-**Decision-Makers:**
-* **Head of Engineering & Program Managers:** To defend timelines and technical resources.
-* **C-Level (CEO/CFO):** To understand how operational noise erodes the **EBIT**.
+**What decision or action will this system inform?**
+The system helps the Engineering Lead and Product Managers to make decisions directly in the development process:
+* **Engineering Quality:** "Should we stop the current release because a specific design change is causing technical failures and losing money?"
+* **Resource Allocation (R&D):** "Do we need to move engineers from 'New Features' back to 'Core Stability' because the AI identified technical debt as the cause for the KPI drop?"
+* **Design Validation:** "Was the change in materials (e.g., cheaper components) the actual cause for the performance drop, or was it an external factor?"
 
 ---
 
